@@ -63,7 +63,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests p
 Matheus Lopes Trindade
 
 ## Licença
-Este projeto é licenciado sob a Licença MIT - veja o arquivo LICENSE para detalhes.
+Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](https://github.com/MatheusLTrindade/HangmanGame/tree/main?tab=MIT-1-ov-file#) para detalhes.
 
 <br/>
 
