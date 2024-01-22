@@ -4,9 +4,11 @@
 
 [Versão 2](#versão-2)
 
+[Versão 3](#versão-3)
+
 [Como Executar](#como-executar)
 
-Este é um jogo da forca simples desenvolvido em Python.
+Este é um jogo da forca simples desenvolvido em Python com uma nova versão baseada em Programação Orientada a Objetos.
 
 <br/><br/>
 
@@ -41,6 +43,21 @@ Este é um jogo da forca simples desenvolvido em Python.
 
 <br/><br/>
 
+## Versão 3
+
+### Novas Funcionalidades
+- Implementação da lógica de Programação Orientada a Objeto `POO`
+- Utilização de classe e métodos para melhor organização do código
+- Interface mais flexível e expansível para futuras atualizações
+
+### Como Jogar
+1. Execute o script `hangman_v3.py`.
+2. A forca será exibida visualmente.
+3. Tente adivinhar a palavra, digitando letras.
+4. Você tem 6 chances antes de perder.
+
+<br/><br/>
+
 ## Como Executar
 Certifique-se de ter o Python instalado em sua máquina. Abra o terminal e execute:
 
@@ -52,6 +69,12 @@ ou
 
 ```bash
 python hangman_v2.py
+```
+
+ou
+
+```bash
+python hangman_v3.py
 ```
 
 <br/><br/>
